@@ -1,2 +1,2 @@
 # PythonProjects
-This a repo for python projects of small scale.
+This is a repo for python projects of small scale.
